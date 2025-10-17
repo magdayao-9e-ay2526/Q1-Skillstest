@@ -1,0 +1,31 @@
+body {
+	background-color: deepskyblue;
+}
+
+.container {
+	width: 80%;
+	margin: 0px auto;
+	border-radius: 15px;
+	border: 10px solid gray;
+	padding: 10px;
+	box-shadow: box-shadow: 10px 10px 5px 0px rgba(24,7,65,0.75);
+-webkit-box-shadow: 10px 10px 5px 0px rgba(24,7,65,0.75);
+-moz-box-shadow: 10px 10px 5px 0px rgba(24,7,65,0.75);
+	display: flex;
+}
+
+.box {
+	width: 25%;
+	border-radius: 15px;
+	border: 7.5 px solid gray;
+	padding: 10px;
+	margin: 5%;
+	background-color: whitesmoke;
+	box-shadow: box-shadow: 10px 10px 5px 0px rgba(24,7,65,0.75);
+-webkit-box-shadow: 10px 10px 5px 0px rgba(24,7,65,0.75);
+-moz-box-shadow: 10px 10px 5px 0px rgba(24,7,65,0.75);
+}
+
+#gallery > h3,p{
+	color: darkolivegreen;
+}
